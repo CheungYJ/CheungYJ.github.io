@@ -7,10 +7,10 @@ Address: No. 222 South Tianshui Road, Lanzhou 730000, Gansu Province, P.R.China
 Research interests: Data mining, Interaction between animals and plants, Ecological networks   
 ## Education
 **Master of Science (2020-2023)**   
-   1. Major: Ecology1   
-   +Research area: Data mining, Ecological network, Interaction between animals and plants, Ecology and evolution   
-   +College of Ecology, Lanzhou University   
-   +Supervisor: Prof. Chuan Yan   
+   1. Major: Ecology   
+   Research area: Data mining, Ecological network, Interaction between animals and plants, Ecology and evolution   
+   College of Ecology, Lanzhou University   
+   Supervisor: Prof. Chuan Yan   
 
 **Bachelor of Science (2016-2020)**   
 Major: Biological Science   
