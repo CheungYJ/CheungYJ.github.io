@@ -1,11 +1,13 @@
 # Yong-Jun Zhang
-![](https://github.com/CheungYJ/CheungYJ.github.io/blob/main/Image_001.jpg)
+
 - Gender: Male    
 - Birthday: Jun. 19th, 1997    
 - Email: <yjzhang2020@lzu.edu.cn>   
 - online CV: <https://cheungyj.github.io/>   
 - Address: No. 222 South Tianshui Road, Lanzhou 730000, Gansu Province, P.R.China   
 - Research interests: Data mining, Interaction between animals and plants, Ecological networks   
+
+![](https://github.com/CheungYJ/CheungYJ.github.io/blob/main/Image_001.jpg)
 
 ## Education
 **Master of Science (2020-2023)**   
