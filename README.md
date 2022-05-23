@@ -1,4 +1,5 @@
 # Yong-Jun Zhang
+![picture](D:/Usual/self/Doctor_apply/CV/Image_001.jpg "yongjun")
 - Gender: Male    
 - Birthday: Jun. 19th, 1997    
 - Email: yjzhang2020@lzu.edu.cn   
